@@ -1,0 +1,4 @@
+#测试环境
+config: 
+  info:  master branch,springcloud-config/config-test.yml version=1     #表示为 master分支下==>>springcloud-config仓库==>>config-test.yml文件
+  
